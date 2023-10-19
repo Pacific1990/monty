@@ -8,5 +8,6 @@ Eko ABET
 3. swap
 4. add
 5. nop
+6. sub
 
 
