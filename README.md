@@ -9,5 +9,6 @@ Eko ABET
 4. add
 5. nop
 6. sub
+7. div
 
 
